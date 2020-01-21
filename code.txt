@@ -1,0 +1,16 @@
+<add name="emp" connectionString="Data Source=;Initial Catalog=;User ID=;Password="
+      providerName="System.Data.SqlClient" />
+
+
+
+<connectionStrings>
+    <add name="emp" connectionString="Data Source=.\DB\Database2.accdb;Persist Security Info=False;"
+      providerName="System.Data.SQLOLEDB" />
+    
+  </connectionStrings>
+
+
+
+
+
+"SELECT [رقم الدائرة (أمة)], [اسم الدائرة (أمة)], [رقم الجدول (أمة)], aria, [نوع الجدول], gender, register, regDate, mojRef, fullName, firstN, secondN, thirdN, fourN, familyN, [تاريخ الميلاد], المهنة, address, regStatus, Phone, Notes, rowColorValue FROM aria3"
